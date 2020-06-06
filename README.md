@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/9qtg86dds30qnanw?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-lifecycle-http-watches)
 
 https://kategaw.github.io/RA_lifecycle-http_watches/
 
