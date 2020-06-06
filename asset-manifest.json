@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RA_lifecycle-http_watches/static/css/main.2e223509.chunk.css",
+    "main.js": "/RA_lifecycle-http_watches/static/js/main.6e1c5905.chunk.js",
+    "main.js.map": "/RA_lifecycle-http_watches/static/js/main.6e1c5905.chunk.js.map",
+    "runtime-main.js": "/RA_lifecycle-http_watches/static/js/runtime-main.6dcc36de.js",
+    "runtime-main.js.map": "/RA_lifecycle-http_watches/static/js/runtime-main.6dcc36de.js.map",
+    "static/js/2.549cf9a5.chunk.js": "/RA_lifecycle-http_watches/static/js/2.549cf9a5.chunk.js",
+    "static/js/2.549cf9a5.chunk.js.map": "/RA_lifecycle-http_watches/static/js/2.549cf9a5.chunk.js.map",
+    "index.html": "/RA_lifecycle-http_watches/index.html",
+    "precache-manifest.9d2be2920854ccd34cd52450b5b6194b.js": "/RA_lifecycle-http_watches/precache-manifest.9d2be2920854ccd34cd52450b5b6194b.js",
+    "service-worker.js": "/RA_lifecycle-http_watches/service-worker.js",
+    "static/css/main.2e223509.chunk.css.map": "/RA_lifecycle-http_watches/static/css/main.2e223509.chunk.css.map",
+    "static/js/2.549cf9a5.chunk.js.LICENSE.txt": "/RA_lifecycle-http_watches/static/js/2.549cf9a5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6dcc36de.js",
+    "static/js/2.549cf9a5.chunk.js",
+    "static/css/main.2e223509.chunk.css",
+    "static/js/main.6e1c5905.chunk.js"
+  ]
+}
